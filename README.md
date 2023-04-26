@@ -1,6 +1,4 @@
-# Android_ALC
-
-##Android Activity Life Cycle
+# Android Activity Life Cycle
 
 ![image](https://user-images.githubusercontent.com/29729380/234488560-05fcf0d4-b1c1-4886-912a-51756829fb29.png)
 
